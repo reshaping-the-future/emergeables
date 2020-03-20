@@ -1,4 +1,4 @@
-// the joint between the motor and the joystick (e.g., https://www.sparkfun.com/products/9032)
+// the joint between the motor and the joystick (e.g., COM-09032; https://www.sparkfun.com/products/9032)
 // Note: print from small side upwards for best results
 module motor_joint_joystick() {
 	difference() {
