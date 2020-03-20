@@ -1,4 +1,4 @@
-// the joint between the actuator and the navigation switch (e.g., http://www.mouser.co.uk/ProductDetail/ALPS/RKJXT1F42001/)
+// the joint between the actuator and the navigation switch (e.g., ALPS ALPS RKJXT1F42001; https://uk.rs-online.com/web/p/joystick-switches/1239636/)
 module motor_joint_navigation_switch() {
 	radius = 6;
 	height = 10;
